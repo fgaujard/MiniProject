@@ -1,0 +1,114 @@
+[
+    {
+        "id": "HyruleMush",
+        "title": "🍄 Champignon d'Hyrule",
+        "description": "Ce champignon à pour effet de vous redonner des coeurs.",
+        "price": 3,
+        "image": "https://picsum.photos/200/200?random=1",
+        "category": "Normal ❤️"
+    },
+    {
+        "id": "VoltMush",
+        "title": "🍄 Champignon Volt",
+        "description": "Ce champignon à pour effet de vous protéger des attaques électriques.",
+        "price": 4,
+        "image": "https://picsum.photos/200/200?random=2",
+        "category": "Volt ⚡️"
+    },
+    {
+        "id": "SpicyMush",
+        "title": "🍄 Champignon Piment",
+        "description": "Ce champignon à pour effet de vous protéger du froid glaciale.",
+        "price": 4,
+        "image": "https://picsum.photos/200/200?random=3",
+        "category": "Piment 🌶️"
+    },
+    {
+        "id": "FrozenMush",
+        "title": "🍄 Champignon GlaGla",
+        "description": "Ce champignon à pour effet de vous protéger des fortes chaleurs.",
+        "price": 4,
+        "image": "https://picsum.photos/200/200?random=4",
+        "category": "GlaGla 🧊"
+    },
+    {
+        "id": "Truffle",
+        "title": "🍄 Truffe Max",
+        "description": "Ce champignon à pour effet de vous rendre plus de coeurs que la normal.",
+        "price": 20,
+        "image": "https://picsum.photos/200/200?random=5",
+        "category": "Max ❤️‍🔥"
+    },
+    {
+        "id": "HyruleFish",
+        "title": "🐠 Perche d'Hyrule",
+        "description": "Ce poisson à pour effet de vous redonner des coeurs.",
+        "price": 6,
+        "image": "https://picsum.photos/200/200?random=6",
+        "category": "Normal ❤️"
+    },
+    {
+        "id": "SpicyFish",
+        "title": "🐠 Truite Piment",
+        "description": "Ce poisson à pour effet de vous protéger du froid glaciale.",
+        "price": 6,
+        "image": "https://picsum.photos/200/200?random=7",
+        "category": "Piment 🌶️"
+    },
+    {
+        "id": "VoltFish",
+        "title": "🐠 Truite Volt",
+        "description": "Ce poisson à pour effet de vous protéger des attaques électriques.",
+        "price": 16,
+        "image": "https://picsum.photos/200/200?random=8",
+        "category": "Volt ⚡️"
+    },
+    {
+        "id": "GlaglaFish",
+        "title": "🐠 Truite GlaGla",
+        "description": "Ce poisson à pour effet de vous protéger du froid glaciale.",
+        "price": 6,
+        "image": "https://picsum.photos/200/200?random=9",
+        "category": "GlaGla 🧊"
+    },
+    {
+        "id": "MaxFish",
+        "title": "🐠 Perche Max",
+        "description": "Ce poisson à pour effet de vous redonner des coeurs.",
+        "price": 18,
+        "image": "https://picsum.photos/200/200?random=10",
+        "category": "Max ❤️‍🔥"
+    },
+    {
+        "id": "GlaGlaBut",
+        "title": "🦋 Papillon GlaGla",
+        "description": "Ce papillon à pour effet de vous protéger des fortes chaleurs.",
+        "price": 2,
+        "image": "https://picsum.photos/200/200?random=11",
+        "category": "GlaGla 🧊"
+    },
+    {
+        "id": "GlaGlaLib",
+        "title": "🦋 Libellule GlaGla",
+        "description": "Cette libellule à pour effet de vous protéger des fortes chaleurs.",
+        "price": 2,
+        "image": "https://picsum.photos/200/200?random=12",
+        "category": "GlaGla 🧊"
+    },
+    {
+        "id": "SpicyLib",
+        "title": "🦋 Libellule Piment",
+        "description": "Cette libellule à pour effet de vous protéger du froid glaciale.",
+        "price": 2,
+        "image": "https://picsum.photos/200/200?random=13",
+        "category": "Piment 🌶️"
+    },
+    {
+        "id": "VoltLib",
+        "title": "🦋 Libellule Volt",
+        "description": "Cette libellule à pour effet de vous protéger des attaques électriques..",
+        "price": 2,
+        "image": "https://picsum.photos/200/200?random=14",
+        "category": "Volt ⚡️"
+    }
+]
